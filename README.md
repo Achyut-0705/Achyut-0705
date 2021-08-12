@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-```Achyut@Shukla```
-```——————————————————```
+`Achyut@Shukla\n`
+`——————————————————`
 `College: "Symbiosis Institute of Technology (SIT)"`
 `Domain: "Computer Science and Engineering"`
 `Languages.CS: "Java, Python, JS, HTML, CSS, C"`
