@@ -5,6 +5,23 @@
 
 Here are some ideas to get you started:
 -->
+
+Achyut@Shukla
+——————————————————
+College: "Symbiosis Institute of Technology (SIT)"
+Domain: "Computer Science and Engineering"
+Languages.CS: "Java, Python, JS, HTML, CSS, C"
+Languages.RL: "English, Hindi"
+Hobbies.Software:
+- "Online Library (django::Python)"
+- "ChatBots"
+- "DSA(Java)"
+Contact: 
+——————————————————
+Email: "achyut.shukla.btech2020@sitpune.edu.in"
+Discord: "Achyut$5070"
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Achyut-0705&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on various aspects of computer science and trying to explore as many things as I can.
@@ -14,23 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Contact me at shuklaachyut2002@gmail.com and will definitely have a chat.
 - ⚡ Fun fact: I'm stil a college brad.
 
-`oooooosydyo+++:---/:-..--://:.`` ``````        Achyut@Shukla
-yyyyyyysssssss++//::``` .:/-..``````````        ——————————————————
-sssyyyyssshmmmmmdhhyo+-.:+/..``....```          College: "Symbiosis Institute of Technology (SIT)"
-`````.yohNNNNNNNmmmdhysoo/-.```....```          Domain: "Computer Science and Engineering"
-.``...ysmNNNNNNNNmddhys+/+:``..--...````        Languages.CS: "Java, Python, JS, HTML, CSS, C"
-``/////+yymNNNNNNNNmhyso+:-+/-..-:--..``        Languages.RL: "English, Hindi"
-/////+somNNNNNNNmhyyysso://----/++/+/+/+        Hobbies.Software:
-hhddddhohmmhdmNmyssyyyyo//-:+sddddddddhh        - "Online Library (django::Python)"
-hddddmdoommyhdhdysso+:-++//yyhdhhhhhhhhy        - "ChatBots"
-dddddmdsodNmssyhyyssso+ssss+-..``..-:/-.        - "DSA(Java)"
-dddddmdysymdssshyyyssoosoyooo///:-:++sdo        Contact: 
-shmNmmmNNNNsoyhhhhhhhyso+ddhdd/::-//+hyo        ——————————————————
-hmNNMNNMMNMNyydddddddmmdmNNmmds/:::///:/        Email: "achyut.shukla.btech2020@sitpune.edu.in"
-NNMNMMMMMNNMNdhhhhdmNMNNmdNNmmddo:::-:-:        Discord: "Achyut$5070"
-NMMMMMMMMMMMMMMNNNMNMNNNNNNNNNmmhs+/////
-NMMMMMMMMMMMMMMMMMNMMNNNNMNNNNNNmdh+:+/:
-NMMMMMMMMMMMMMMMNNNMMNNNNMMMMMNmmddh+::-
-NNMMMMMMMMNMMMMMMNMMMNNMNMMMMNNNNmdhyo/+
-NNNMMMMMMMNMMMMMMNNmdhyhmmNMNNNNNNNmddhy
-NNNNNNNNNNNNNdoo+//+++//:/dNNNNNNmmmmddd
+
+
