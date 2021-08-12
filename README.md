@@ -15,4 +15,18 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I'm stil a college brad.
 
 
+Achyut@Shukla<br/>
+——————————————————
+College: "Symbiosis Institute of Technology (SIT)"
+Domain: "Computer Science and Engineering"
+Languages.CS: "Java, Python, JS, HTML, CSS, C"
+Languages.RL: "English, Hindi"
+Hobbies.Software:
+- "Online Library (django::Python)"
+- "ChatBots"
+- "DSA(Java)"
+Contact: 
+——————————————————
+Email: "achyut.shukla.btech2020@sitpune.edu.in"
+Discord: "Achyut$5070"
 
