@@ -16,17 +16,17 @@ Here are some ideas to get you started: -->
 
 
 Achyut@Shukla<br/>
-——————————————————
-College: "Symbiosis Institute of Technology (SIT)"
-Domain: "Computer Science and Engineering"
-Languages.CS: "Java, Python, JS, HTML, CSS, C"
-Languages.RL: "English, Hindi"
-Hobbies.Software:
-- "Online Library (django::Python)"
-- "ChatBots"
-- "DSA(Java)"
-Contact: 
-——————————————————
-Email: "achyut.shukla.btech2020@sitpune.edu.in"
-Discord: "Achyut$5070"
+——————————————————<br/>
+College: "Symbiosis Institute of Technology (SIT)"<br/>
+Domain: "Computer Science and Engineering"<br/>
+Languages.CS: "Java, Python, JS, HTML, CSS, C"<br/>
+Languages.RL: "English, Hindi"<br/>
+Hobbies.Software:<br/>
+- "Online Library (django::Python)"<br/>
+- "ChatBots"<br/>
+- "DSA(Java)"<br/>
+Contact: <br/>
+——————————————————<br/>
+Email: "achyut.shukla.btech2020@sitpune.edu.in"<br/>
+Discord: "Achyut$5070"<br/>
 
