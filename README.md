@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Contact me at shuklaachyut2002@gmail.com and will definitely have a chat.
 - ⚡ Fun fact: I'm stil a college brad.
 
-oooooosydyo+++:---/:-..--://:.`` ```````        Achyut@Shukla
+`oooooosydyo+++:---/:-..--://:.`` ``````        Achyut@Shukla
 yyyyyyysssssss++//::``` .:/-..``````````        ——————————————————
 sssyyyyssshmmmmmdhhyo+-.:+/..``....```          College: "Symbiosis Institute of Technology (SIT)"
 `````.yohNNNNNNNmmmdhysoo/-.```....```          Domain: "Computer Science and Engineering"
-.``...ysmNNNNNNNNmddhys+/+:``..--...```.`       Languages.CS: "Java, Python, JS, HTML, CSS, C"
-/////+yymNNNNNNNNmhyso+:-+/-..-:--..```.        Languages.RL: "English, Hindi"
+.``...ysmNNNNNNNNmddhys+/+:``..--...````        Languages.CS: "Java, Python, JS, HTML, CSS, C"
+``/////+yymNNNNNNNNmhyso+:-+/-..-:--..``        Languages.RL: "English, Hindi"
 /////+somNNNNNNNmhyyysso://----/++/+/+/+        Hobbies.Software:
 hhddddhohmmhdmNmyssyyyyo//-:+sddddddddhh        - "Online Library (django::Python)"
 hddddmdoommyhdhdysso+:-++//yyhdhhhhhhhhy        - "ChatBots"
