@@ -15,7 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm stil a college brad.
 
 
-+++++++++++++++oosyymmms+++////////:::------oyss:---`--..-:-:::::/:+///::-..`..```            Achyut@Shukla
++++++++++oshmmo+++///::---:o+-:`..--:::///:-.```````````````            Achyut@Shukla
+yyyyyyyyyyyyyysssosoo:----.----`....-:://:-.```    `````````
+ssysssyyyysssssssssssooo++//:-````  `:/+:-...`.`````````````
+yyyyyyyyyyssssoshddmmmmmdhyyys++/- `-/++:-...........````` `
+++++++++ohossydmNNNNNNNmmmdddhyso+/::++:-.``  `......```    
+````````.hooymNNNNNNNNNNmmmmddhhyysoo//:-`````.......```   `
+````````.hosdNNNNNNNNNNNNmmmmddhhhy++++:.  `...--.....`````.
+------...yohmmNNNNNNNNNNNmdddhhyso+/:o+/-.....-:--....` ```.
+////////oyohmmNNNNNNNNNNNmdhhyysoo/:-/+/:...--::---...````..
+/::::::/+sosmmNmNNNNNNNNNmdhysso++/:--+/:....-:::--...`...--
+++++++++oysodmmNNmNNNNNNdhyyyyyhyyys/++/:-:--:+oyyyyysyyssyy
+hhhdhhddddsoymmNdhdmNNNmysssyhhhyhyo/+:--:/+sdddddddddddhdhh
+hhddddddmdsoodmNyhhddmmdsssoooo++/:++/-.:oyyddhhhhhhhhhhhhhh
+hhddddddmdysoyNNdyhdhyhdyyssso++:-:s+o+/yyyshhhhhhhhhhhhhyyy
+hdddddddmmyoosNNNhsshhyhyyysssso+/+sysyyyo:.````````.--::.``
+ddddddddmmysoohNNmyssshhhyyssssooosss+s/--------.--:://+os+:
+ddddddddmmyyyhymNhssssyyyyyyysssooosoodyyyyo//+++:://o++ydd/
+yymmNmmdmmmNNNNNdoosyyyyyhhhhyyysso+//mddhddd+//:-:+/++sddy/
+oommNNNNNNMMNNNMNyosyhhhhddddddhhhhyyhNNmdmdh+:-:::/:/:/o/os
+hdNNNNMNNNNMMMMNMmhyhhdddddddddmNNmdmNNNNmmmhho/:::/:////::/
+mNNMNNMNMMMMMMNNMMNdhhhhhhhhhdmMMMNmmmmmNNmmmddh+::-:/:::--:
+NNNMMNMNMMMMMMNNMMMNNmdddddmNNNMMNNNNmmNNNNNmmmmhs:/:---:::/
+NNMMMMNMMMMMMMMNMMMMMMMNNNMMNNNMNNNNNNNNNNNNNmmmhyo+////////
+NMNMMMMMMMMMMMMNMMMMMMMMMMMNNNMNNNNNNNNNNNNNNmmmddhy++:++//:
+NNMNMMMMMMMMMMMNMMMMMMMMMMNNNMMNNNNNmMMNNNMNNNNNNmmdy+./+/:-
+NMMMMMMMMMMMMMMNMMMMMMMMNNNNMMMNNNNNNMMNNMMMNNNmmmddhyo::::-
+NNNMMMMMMMMMMMMNMMMMMMMMMNNNMMMMNNMMNMMMNMMMNNNNmmdddhyo/:-:
+NNNNMMMMMMMMMMMNMMMMMMMMMMNMMMMMNNMMNMMMMMMNNNNNNmmddhhyo+o+
+MMMNMMMMMMMMMMMNMMMMMMMMMMMNNNNmdddmNNNMMMNNNNNNNNNNmmmmdyyy
+NNNNNNNMMMMNNMNNNNNNdddhhyysssoo+///++shNMNNNNmmmmmmNNdhdmmd
+NNNNNNNNNNNNNNNNNNNNh+o+//////++++//::+mNNNNNNNNNNNmddNmddhd
+
++++++++++++++++oosyymmms+++////////:::------oyss:---`--..-:-:::::/:+///::-..`..```            
 ssssssssoooooooossyhddddoooooooo++/::----....-::-:/: ...`-:---::/:/+//:--.`````  `            ——————————————————
 yyyyyyyyyyyyyyyyysyssyysssysooosooo::-------..---:-.``--....---::/+/::-..`````                College: "Symbiosis Institute of Technology (SIT)"
 yyyyyyyyyyyyyyyyysyssssssssssssoooo::::::---------``` ..``  `-::////:-....``````              Domain: "Computer Science and Engineering"
