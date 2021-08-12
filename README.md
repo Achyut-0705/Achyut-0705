@@ -15,46 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm stil a college brad.
 
 
-+++++++++++++++oosyymmms+++////////:::------oyss:---`--..-:-:::::/:+///::-..`..`````````.```````````            Achyut@Shukla
-ssssssssoooooooossyhddddoooooooo++/::----....-::-:/: ...`-:---::/:/+//:--.`````     ````````````````            ——————————————————
-yyyyyyyyyyyyyyyyysyssyysssysooosooo::-------..---:-.``--....---::/+/::-..`````       ``````````````             College: "Symbiosis Institute of Technology (SIT)"
-yyyyyyyyyyyyyyyyysyssssssssssssoooo::::::---------``` ..``  `-::////:-....``````  ``````````````````            Domain: "Computer Science and Engineering"
-sssysssssssyyyssysssssssosooosssssssyyyssoo++++/:-``````    `-::/+/:---.....`..`````````````````````            Languages.CS: "Java, Python, JS, HTML, CSS, C"
-sssssssssssyyyssyssssssoosssyddddddmmdmddhhhysssoo++//:.`   .:/+++/:---.................`.``````  ``            Languages.RL: "English, Hindi"
-yyyyyyyyhyyyyhyyyosooososydmmNmmmmmmmmmmmddhhyyhhysoo++/-``.-:+oo+/:-....````...........`` `````                Hobbies.Software:
-+++++++++++++oyhyosoosshmNNNNNNNNNNNmNmmmmmmddddhhyysooo+/::::+++/:..```     `..........`````                   - "Online Library (django::Python)"
-``````````````:dyoooshmmmNNNNNNNNNNNNNNNmmmmmmddddhhyyysoo++++///:-..````   ``..........``````                  - "ChatBots"
-``````````````-hhoooymmNNNNNNNNNNNNNNNNNNNmmmmmdddhhhhhyysssso+:/::-.``````.`.--.........``````   ``            - "DSA(Java)"
-``````````````.hyoosddNNNNNNNNNNNNNNNNNNNNNmmmmmdddhhhhhhyysso+++::.`   ``....--..........`..``  ```            Contact: 
-..````````````.yhoohmmNNmNNNNNNNNNNNNNNNNNmmmmmddddhhhhyyy+://+++/:.`  ``....-----........`  `````..            ——————————————————
-........-......yh+omNdmNNNNNNNNNNNNNNNNNNNmmddddhhhhyysoo+/://oo+/:-......--.-::---.....```  ```````            Email: "achyut.shukla.btech2020@sitpune.edu.in"
-/////////::::::yhosNmmmNNNNNNNNNNNNNNNNNNNmdddhhhhyysoooo++/-.ooo//:-.....--.:::----......` ``````.`            Discord: "Achyut$5070"
-///////////++oyyy+ommmmNmmNNNNNNNNNNNNNNNNmmddhhyyyssooo+/:--.:o+/::-.....---:::-----....```..```...
-//::::::::::/+osyo+hmmNmNmNNNNNNNNNNNNNNNNmmdhhyysssoo+///:---.:+//:-.....----:::----.....````.``..-
-/::::::::::::/+syo+ommmmNmNNNNNNNNNNNNNNNmdhhyyyyssooooo++//::--+//:-`````..-:::::---.....`......---
-+///+////////+osyo+odmmNmNNNNNNNNNNNNNNNmdhyyyyyyyyhhhhhhyys+//++/:::-::::::-/+oyhhyyyyhyhhhdhyyyyyy
-hhhhhhhhhhhhhhdmyo+oymmmmNNNmdmmNNNNNNNmhyysssyyhhhhhyyyhyys+oo++::::::////oyhdddddddddddddddddddddd
-dhhhhhhhddddhdmmysooommmmNNdshhhdmNNNNNdysssssyyyhhhhhyhhyso:/+/:---::/+osdmdddddddddddhhhhhhhhhhhhh
-hhhhddddddddddmmyyooosmmmNNshhyhddmNNNmhssssssoossssooo+++++/::-..--:+shyydmddhhhhhhhhhhhhhhhhhhhhhh
-hdddddddddddddmmyyoooodmmNNshyhdmdhddmmhyssssooooo++/::---/+oo+:..-/syyhyyddddhhhhhhhhhhhhhhhhhhhhhh
-hhhddddddddddmmNyyosooymNNNdyyyhdmyyyddhyyyssssoooo+/::--:os+/+o+:syyyhhyyddhhhhhhhhhhhhhhhhhhhhhyyy
-ddhdddddddddddmmhyssooymNNNNhsyyyhdhyyhhyyyyssssssooo+//:/yhssyysoyyyyyy+++////////////////++oo+////
-hhddddddddddddmmhyooooomNNNNNhssssyhhyhhhyyyysssssssoo++/+osyyosyyyys+-`            ```..-::::/-````
-ddhdddddddddddmmdyssooohNNNNNdyooossyhhhhyyyysssssssso++ossooo++ys+:....-.---.....--::::://://+/----
-hddhdddddddddmmmdyosoooohNNNmdyssssoshhhhyyyysssssssoooosyhyys/oo/:::-:::--------.----:::/+++oyhhso:
-dhhdddddddddddmmdyssssyssmNNmhsssssosyhyyyyyyyyyyssssooooossso+hhsyyyyys+::/++oo+:--::/:/s+++ohdddy:
-dddddmmmmmdddddmdhddmmNNdmNdhsoosyssyyyyyyyyyyyyyyysssooooo+/:+mmhhdhhhddhs+++o+++/::/+/+so/ohdmmd+-
-yyyhmmmmmmmddmmmmmNNNNNMNNMdoooosyyyyyhyyyhhhhhhyyyyyyssoo+///:hNmhdhhddddms:::/::--:+/:/+ooyddddh:/
-o++ymmmNNNNNmNNNNNNNMNNMNMMMyooosyyhhhhhhhhhdddhhhdhhhhyyysssssdNmmddhdmmdh+---------//://::oysosyyh
-ssydNNNNNMMNNNNNNMMNNNNMNMMMNyoosyhhhdddddddddddddddddddddhdddmNNNNmmdmmdhyo/:::::::://://::://:://o
-hhhmNNNNNMMMNNNNNNMMMMMMNNMMNmhyyyhhddddddddddddddmmmmNNNmmdNNmNNNNNmmmmddhhy+/:::::://:////////:://
-hmmNNMNNNMMMMMMNNNMMMMMMNNMMMNmdhyhhddddddddddhhdddmNMMMNNmddNNmmNNNNmmmmddhhys+::::::::////://:-::/
-NNNNMMMNNNMNNMMMMMMMMMMMNMNMMMNmdhhhhhhhhhhhhhhhddmNMMMMNNNmmNmmmmNNNNmmNmdddddho:::-:-:///-:/:---:/
-NNNNMMMMNNMMNMMMMMMMMMMNNNNMMMMMNmddhhhhhhhhhhhmNNNNMMMMNNNmNNmdhdNNNNNNmmmmmmmdhy+::/::/--.-:::--:/
-NNNNNMMMMNNMNMMMMMMMMMMNNNNMMMMMMMMNNmmmdddmmNNNNNNNMMMNMNNNNNNmmNNNNNNNNNmmmmmddhy+://::-::--//:://
-NNNMMMMMMMNMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMNNNNMMMNMMNNNNNmNNNNNNNNNNNNmmmmmdhys++/////+//++////
-MMMNMMMMMMMNMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMNMNNNMMMNNNNNNNNNNNNNNNNNNNNNNNmmNmddhhys+/++++++++///:
-NMMMNMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMNNNNNMMNNNNNNNNNNMNNNNNNNMNNNNmmmmdddddhhs/++:+++++///-
-NNNMMNMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMNNNNMMMNNNNNNNNNNMMNNNNNNMNNNNNNNNNNNNmdmhs+/.-/+//::-.
-NNNNMMNMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMNNMMNNNNMMMMNNNNNNNNNmMMMNNNNMMNNNNMNNNNNmmmmdhhs/-.:++///:-
-MMMMMMMMMMMMMMMMMMMMMMMMNNMMMMMMMMMMMMMNNNNNNNNMMMMMNNNNNNMNmNMMMNNNNMMNMMNNNNNmmmmdddhhyso:-::/:::-
++++++++++++++++oosyymmms+++////////:::------oyss:---`--..-:-:::::/:+///::-..`..```            Achyut@Shukla
+ssssssssoooooooossyhddddoooooooo++/::----....-::-:/: ...`-:---::/:/+//:--.`````  `            ——————————————————
+yyyyyyyyyyyyyyyyysyssyysssysooosooo::-------..---:-.``--....---::/+/::-..`````                College: "Symbiosis Institute of Technology (SIT)"
+yyyyyyyyyyyyyyyyysyssssssssssssoooo::::::---------``` ..``  `-::////:-....``````              Domain: "Computer Science and Engineering"
+sssysssssssyyyssysssssssosooosssssssyyyssoo++++/:-``````    `-::/+/:---.....`..```            Languages.CS: "Java, Python, JS, HTML, CSS, C"
+sssssssssssyyyssyssssssoosssyddddddmmdmddhhhysssoo++//:.`   .:/+++/:---...........            Languages.RL: "English, Hindi"
+yyyyyyyyhyyyyhyyyosooososydmmNmmmmmmmmmmmddhhyyhhysoo++/-``.-:+oo+/:-....````.....            Hobbies.Software:
++++++++++++++oyhyosoosshmNNNNNNNNNNNmNmmmmmmddddhhyysooo+/::::+++/:..```     `....            - "Online Library (django::Python)"
+``````````````:dyoooshmmmNNNNNNNNNNNNNNNmmmmmmddddhhyyysoo++++///:-..````   ``....            - "ChatBots"
+``````````````-hhoooymmNNNNNNNNNNNNNNNNNNNmmmmmdddhhhhhyysssso+:/::-.``````.`.--..            - "DSA(Java)"
+``````````````.hyoosddNNNNNNNNNNNNNNNNNNNNNmmmmmdddhhhhhhyysso+++::.`   ``....--..            Contact: 
+..````````````.yhoohmmNNmNNNNNNNNNNNNNNNNNmmmmmddddhhhhyyy+://+++/:.`  ``....-----            ——————————————————
+........-......yh+omNdmNNNNNNNNNNNNNNNNNNNmmddddhhhhyysoo+/://oo+/:-......--.-::--            Email: "achyut.shukla.btech2020@sitpune.edu.in"
+/////////::::::yhosNmmmNNNNNNNNNNNNNNNNNNNmdddhhhhyysoooo++/-.ooo//:-.....--.:::--            Discord: "Achyut$5070"
+///////////++oyyy+ommmmNmmNNNNNNNNNNNNNNNNmmddhhyyyssooo+/:--.:o+/::-.....---:::--
+//::::::::::/+osyo+hmmNmNmNNNNNNNNNNNNNNNNmmdhhyysssoo+///:---.:+//:-.....----:::-
+/::::::::::::/+syo+ommmmNmNNNNNNNNNNNNNNNmdhhyyyyssooooo++//::--+//:-`````..-:::::
++///+////////+osyo+odmmNmNNNNNNNNNNNNNNNmdhyyyyyyyyhhhhhhyys+//++/:::-::::::-/+oyh
+hhhhhhhhhhhhhhdmyo+oymmmmNNNmdmmNNNNNNNmhyysssyyhhhhhyyyhyys+oo++::::::////oyhdddd
+dhhhhhhhddddhdmmysooommmmNNdshhhdmNNNNNdysssssyyyhhhhhyhhyso:/+/:---::/+osdmdddddd
+hhhhddddddddddmmyyooosmmmNNshhyhddmNNNmhssssssoossssooo+++++/::-..--:+shyydmddhhhh
+hdddddddddddddmmyyoooodmmNNshyhdmdhddmmhyssssooooo++/::---/+oo+:..-/syyhyyddddhhhh
+hhhddddddddddmmNyyosooymNNNdyyyhdmyyyddhyyyssssoooo+/::--:os+/+o+:syyyhhyyddhhhhhh
+ddhdddddddddddmmhyssooymNNNNhsyyyhdhyyhhyyyyssssssooo+//:/yhssyysoyyyyyy+++///////
+hhddddddddddddmmhyooooomNNNNNhssssyhhyhhhyyyysssssssoo++/+osyyosyyyys+-`          
+ddhdddddddddddmmdyssooohNNNNNdyooossyhhhhyyyysssssssso++ossooo++ys+:....-.---.....
+hddhdddddddddmmmdyosoooohNNNmdyssssoshhhhyyyysssssssoooosyhyys/oo/:::-:::--------.:
+dhhdddddddddddmmdyssssyssmNNmhsssssosyhyyyyyyyyyyssssooooossso+hhsyyyyys+::/++oo+:
+dddddmmmmmdddddmdhddmmNNdmNdhsoosyssyyyyyyyyyyyyyyysssooooo+/:+mmhhdhhhddhs+++o+++
+yyyhmmmmmmmddmmmmmNNNNNMNNMdoooosyyyyyhyyyhhhhhhyyyyyyssoo+///:hNmhdhhddddms:::/::
+o++ymmmNNNNNmNNNNNNNMNNMNMMMyooosyyhhhhhhhhhdddhhhdhhhhyyysssssdNmmddhdmmdh+------
+ssydNNNNNMMNNNNNNMMNNNNMNMMMNyoosyhhhdddddddddddddddddddddhdddmNNNNmmdmmdhyo/:::::
+hhhmNNNNNMMMNNNNNNMMMMMMNNMMNmhyyyhhddddddddddddddmmmmNNNmmdNNmNNNNNmmmmddhhy+/:::
+hmmNNMNNNMMMMMMNNNMMMMMMNNMMMNmdhyhhddddddddddhhdddmNMMMNNmddNNmmNNNNmmmmddhhys+::
+NNNNMMMNNNMNNMMMMMMMMMMMNMNMMMNmdhhhhhhhhhhhhhhhddmNMMMMNNNmmNmmmmNNNNmmNmdddddho:
+NNNNMMMMNNMMNMMMMMMMMMMNNNNMMMMMNmddhhhhhhhhhhhmNNNNMMMMNNNmNNmdhdNNNNNNmmmmmmmdhy
+NNNNNMMMMNNMNMMMMMMMMMMNNNNMMMMMMMMNNmmmdddmmNNNNNNNMMMNMNNNNNNmmNNNNNNNNNmmmmmddh
+NNNMMMMMMMNMMMMMMMMMMMMMNNMMMMMMMMMMMMMMMMMMMMMNNNNMMMNMMNNNNNmNNNNNNNNNNNNmmmmmdh
+
