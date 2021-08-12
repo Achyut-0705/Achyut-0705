@@ -6,20 +6,20 @@
 Here are some ideas to get you started:
 -->
 
-Achyut@Shukla
-——————————————————
-College: "Symbiosis Institute of Technology (SIT)"
-Domain: "Computer Science and Engineering"
-Languages.CS: "Java, Python, JS, HTML, CSS, C"
-Languages.RL: "English, Hindi"
-Hobbies.Software:
-- "Online Library (django::Python)"
-- "ChatBots"
-- "DSA(Java)"
-Contact: 
-——————————————————
-Email: "achyut.shukla.btech2020@sitpune.edu.in"
-Discord: "Achyut$5070"
+`Achyut@Shukla`
+`——————————————————`
+`College: "Symbiosis Institute of Technology (SIT)"`
+`Domain: "Computer Science and Engineering"`
+`Languages.CS: "Java, Python, JS, HTML, CSS, C"`
+`Languages.RL: "English, Hindi"`
+`Hobbies.Software:`
+`- "Online Library (django::Python)"`
+`- "ChatBots"`
+`- "DSA(Java)"`
+`Contact: `
+`——————————————————`
+`Email: "achyut.shukla.btech2020@sitpune.edu.in"`
+`Discord: "Achyut$5070"`
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Achyut-0705&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
