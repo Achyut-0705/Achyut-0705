@@ -15,8 +15,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I'm stil a college brad.
 
 
-  + Achyut@Shukla<br/>
-  + ——————————————————<br/>
+$\qquad$ Achyut@Shukla<br/>
+$\qquad$ ——————————————————<br/>
 College: "Symbiosis Institute of Technology (SIT)"<br/>
 Domain: "Computer Science and Engineering"<br/>
 Languages.CS: "Java, Python, JS, HTML, CSS, C"<br/>
