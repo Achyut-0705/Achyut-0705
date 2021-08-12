@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-`Achyut@Shukla\n`
+`Achyut@Shukla`\n
 `——————————————————`
 `College: "Symbiosis Institute of Technology (SIT)"`
 `Domain: "Computer Science and Engineering"`
