@@ -19,8 +19,8 @@ Achyut@Shukla<br/>
 ——————————————————<br/>
 College: "Symbiosis Institute of Technology (SIT)"<br/>
 Domain: "Computer Science and Engineering"<br/>
-Languages.CS: "Java, Python, JS, HTML, CSS, C"<br/>
-Languages.RL: "English, Hindi"<br/>
+CS.Languages: "Java, Python, JS, HTML, CSS, C"<br/>
+RL.Languages: "English, Hindi"<br/>
 Hobbies.Software:<br/>
 - "Online Library (django::Python)"<br/>
 - "ChatBots"<br/>
