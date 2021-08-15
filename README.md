@@ -29,5 +29,5 @@ Hobbies.Software:<br/>
 Contact: <br/>
 ——————————————————<br/>
 Email: "achyut.shukla.btech2020@sitpune.edu.in"<br/>
-Discord: "Achyut$5070"<br/>
+Discord: "Achyut#5070"<br/>
 
